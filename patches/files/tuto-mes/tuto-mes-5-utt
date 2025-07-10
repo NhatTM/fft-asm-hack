@@ -1,0 +1,219 @@
+{0xEC71}{Color 08}Master Darlavon{Newline}
+{Color 00}In this session, we will be discussing abilities.{Newline}
+{Newline}
+When a unit takes on a job, he or she can{Newline}
+learn the abilities available to that job.{Newline}
+{Newline}
+As a unit progresses in his or her job, more{Newline}
+and more of that job's unique abilities will{Newline}
+become available.{Newline}
+Allow me to explain the various types of{Newline}
+abilities and how they are used.{Newline}
+{Newline}
+First, let us open the ability status window.{Newline}
+{Newline}
+{Newline}
+It may be accessed by selecting a job from{Newline}
+the job status window and pressing ×.
+{MClose}
+{0xEC71}This is the ability status window.{Newline}
+{Newline}
+{Newline}
+Here you will see a list of the abilities{Newline}
+offered by a particular job, and whether or not{Newline}
+they have already been learned by the unit.{Newline}
+These abilities may be learned when enough{Newline}
+job points have been obtained for this job.{Newline}
+{Newline}
+Use the left and right buttons to cycle{Newline}
+through the various types of abilities.{Newline}
+{Newline}
+There are four types of abilities, divided by{Newline}
+how they are used.{Newline}
+{Newline}
+First of all, we have action abilities.
+{MClose}
+{0xEC71}Action abilities are executed in battle as{Newline}
+actions. They include many different types{Newline}
+of skills and magicks.{Newline}
+The white magicks Cure and Raise are{Newline}
+examples of this kind of ability.{Newline}
+{Newline}
+Next are reaction abilities.
+{MClose}
+{0xEC71}Reaction abilities are triggered when the{Newline}
+unit is attacked by an enemy.{Newline}
+{Newline}
+Take the chemist's Auto-Potion ability,{Newline}
+for example.{Newline}
+{Newline}
+This ability enables the unit to automatically{Newline}
+use a potion when he or she suffers damage{Newline}
+from an enemy attack.{Newline}
+Next are support abilities.
+{MClose}
+{0xEC71}Support abilities strengthen a unit's basic{Newline}
+combat skills.{Newline}
+{Newline}
+They may allow the unit to equip different{Newline}
+types of items, or increase offensive or{Newline}
+defensive attributes.{Newline}
+For example, Armor Lore and Combat{Newline}
+Casting are both support abilities.{Newline}
+{Newline}
+Finally, we have movement abilities.
+{MClose}
+{0xEC71}Movement abilities enhance the unit's mobility{Newline}
+in some fashion.{Newline}
+{Newline}
+They may increase the distance that the unit{Newline}
+may move, or add a special effect to his or{Newline}
+her movement.{Newline}
+Examples of this type of ability are Move +1{Newline}
+and Lifefont, which restores HP to the unit{Newline}
+whenever it moves.
+{MClose}
+{0xEC71}A unit may learn these abilities by using the{Newline}
+job points saved up for each job.
+{MClose}
+{0xEC71}The number in the lower JP column is the{Newline}
+number of job points required to learn that{Newline}
+ability.
+{MClose}
+{0xEC71}This is the number of job points available for{Newline}
+learning this job's abilities.{Newline}
+{Newline}
+When an ability is learned, its job points are{Newline}
+subtracted from this amount. To get more job{Newline}
+points, you must take the unit into battle.{Newline}
+Additionally, a job's level is determined by the{Newline}
+number in the Total column. This is the total{Newline}
+JP the unit has earned for that job.{Newline}
+You will need to look at the rightmost{Newline}
+column to see how many job points are{Newline}
+actually available to spend.
+{MClose}
+{0xEC71}Now then, let's try learning a new ability.{Newline}
+{Newline}
+{Newline}
+First, choose Abilities from the party menu to{Newline}
+access the abilities menu.
+{MClose}
+{0xEC71}Now choose the Learn command.
+{MClose}
+{0xEC71}Choose which job you wish to learn an{Newline}
+ability from.
+{MClose}
+{0xEC71}Next, use the left and right buttons to cycle{Newline}
+through the four types of abilities.
+{MClose}
+{0xEC71}Only the abilities in black may be learned by{Newline}
+the unit.{Newline}
+{Newline}
+The grayed-out abilities cannot be learned{Newline}
+because the unit does not have enough job{Newline}
+points.
+{MClose}
+{0xEC71}This unit just learned the Antidote ability.{Newline}
+{Newline}
+{Newline}
+The abilities you have learned will have{Newline}
+"Learned" displayed next to them in the{Newline}
+JP cost column.
+{MClose}
+{0xEC71}Next, let's examine how abilities are used in{Newline}
+battle.{Newline}
+{Newline}
+Action abilities may be selected as actions on{Newline}
+the battlefield.{Newline}
+{Newline}
+To do this, first select "Act" from the battle{Newline}
+menu. Action abilities are listed as sub-{Newline}
+commands after selecting "Act."{Newline}
+Next, select one of the action abilities within{Newline}
+that category.{Newline}
+{Newline}
+For example, the action abilities for the white{Newline}
+mage job appear under the White Magicks{Newline}
+job command.{Newline}
+If a unit is a white mage, White Magicks will{Newline}
+always be available.{Newline}
+{Newline}
+In other words, action abilities that the unit{Newline}
+has learned for his or her current job will{Newline}
+always be available to the unit.{Newline}
+Look at the panel in the bottom left corner{Newline}
+of the screen. The first icon represents the{Newline}
+job command for the unit's current job.
+{MClose}
+{0xEC71}This command is fixed and cannot be changed.{Newline}
+{Newline}
+{Newline}
+However, notice that there is another space{Newline}
+with the same icon just below that.{Newline}
+{Newline}
+Here, you may place the job command of any job{Newline}
+currently available to the unit.{Newline}
+{Newline}
+Once you have done this, that job's abilities{Newline}
+will also be usable in battle.{Newline}
+{Newline}
+To select a job command to place here, use{Newline}
+the Assign command on the abilities menu.
+{MClose}
+{0xEC71}When you select Assign, the cursor will move{Newline}
+to the panel on the left-hand side of the{Newline}
+screen.
+{MClose}
+{0xEC71}Press × to select a different job command.
+{MClose}
+{0xEC71}Select from among the choices on this list.{Newline}
+{Newline}
+{Newline}
+Do remember that although this is a list of{Newline}
+all jobs available to the unit, the unit may not{Newline}
+have learned some of those jobs' abilities.{Newline}
+Take care when making your selection.
+{MClose}
+{0xEC71}The three icons under the job commands{Newline}
+represent other types of abilities.{Newline}
+{Newline}
+Third from the top is the unit's reaction{Newline}
+ability, followed by support ability, and then{Newline}
+movement ability.{Newline}
+You may assign one of the abilities the unit{Newline}
+has learned to each of these slots using the{Newline}
+Assign command.
+{MClose}
+{0xEC71}Unlike the first job command, these abilities{Newline}
+are not automatically assigned when changing{Newline}
+a unit's job.{Newline}
+You may choose any ability the unit has {Newline}
+learned for these slots, regardless of his or{Newline}
+her current job.{Newline}
+However, some jobs have special innate{Newline}
+abilities that need not be assigned.{Newline}
+{Newline}
+For example, a ninja may use two weapons{Newline}
+without being assigned the Dual Wield{Newline}
+ability.{Newline}
+There is no reason to assign abilities that{Newline}
+overlap with a unit's innate ability, so they{Newline}
+cannot be assigned by the player.
+{MClose}
+{0xEC71}Thus, units are not limited to their current{Newline}
+job's abilities. By using the Assign command,{Newline}
+they may use previously learned abilities, too.{Newline}
+This allows you to create units with a wide{Newline}
+variety of abilities that should prove useful on{Newline}
+the battlefield.
+{MClose}
+{0xEC71}This ends my explanation of abilities.{Newline}
+{Newline}
+{Newline}
+Do your best to learn many abilities and to{Newline}
+select the ones that will be most useful to{Newline}
+you in a particular situation.{Newline}
+With that, I shall bring this lesson to a close.
+{MClose}
+{zeroes(193,5951)}

@@ -1,0 +1,272 @@
+{0xEC71}{Color 08}Master Darlavon{Newline}
+{Color 00}Now then, let us begin the lesson.{Newline}
+{Newline}
+In this session, we shall discuss the{Newline}
+Equipment command available on the{Newline}
+party menu.{Newline}
+The party's items include an inventory{Newline}
+available to all party members, as well as{Newline}
+items equipped by specific units.{Newline}
+When equipping a unit, you may choose from{Newline}
+any of the items in the party's inventory.{Newline}
+{Newline}
+Let us examine the steps involved in{Newline}
+equipping a unit.{Newline}
+{Newline}
+To open the party menu, press △ while{Newline}
+viewing either the party roster or any of{Newline}
+the status screens.
+{MClose}
+{0xEC71}Select the first option, Equipment.
+{MClose}
+{0xEC71}The screen changes, with the equipment{Newline}
+menu on the bottom right, and the unit's{Newline}
+current equipment on the bottom left.{Newline}
+As with the status screen, you may cycle{Newline}
+through units using the L and R buttons.
+{MClose}
+{0xEC71}Now let us examine the commands one by one.
+{MClose}
+{0xEC71}Equip allows you to select an item from the{Newline}
+party's inventory and outfit the currently{Newline}
+selected unit with it.{Newline}
+Let's give it a try. We start by selecting{Newline}
+Equip.
+{MClose}
+{0xEC71}Next, move the cursor to the spot you{Newline}
+wish to equip.
+{MClose}
+{0xEC71}For now, we will change the equipment{Newline}
+in the right hand.
+{MClose}
+{0xEC71}A list of items that may be equipped in the{Newline}
+right hand appears.{Newline}
+{Newline}
+Items that are grayed out cannot be{Newline}
+equipped by the unit's current job.{Newline}
+{Newline}
+You may find this easier if the list filters{Newline}
+out items that the current unit cannot{Newline}
+equip.{Newline}
+In that case, simply set option 11, "Display{Newline}
+Unequippable Items," to "Off" in the{Newline}
+Options menu.{Newline}
+The equipment list displays all items,{Newline}
+including those in the party's inventory{Newline}
+and items that are currently equipped.{Newline}
+Even if an item is not grayed out, it may{Newline}
+not be equippable if other units in the party{Newline}
+have already equipped all of that item.{Newline}
+The number of each item currently equipped{Newline}
+(Eqp.) and the total number in the party's{Newline}
+inventory (Total) appear beside each item.{Newline}
+Let's attempt to equip a longsword.
+{MClose}
+{0xEC71}Moving the cursor to an equippable item{Newline}
+displays the change in attributes that{Newline}
+would result from equipping that item.{Newline}
+Equipping the longsword will raise weapon{Newline}
+Attack by 1 and Parry by 4.
+{MClose}
+{0xEC71}Equipping the dagger, however, would{Newline}
+lower weapon Attack by 1.
+{MClose}
+{0xEC71}Remember that the attributes displayed{Newline}
+while selecting equipment are not the{Newline}
+weapon's actual Attack and Parry.{Newline}
+Rather, these numbers show the relative{Newline}
+strength of the selected weapon against{Newline}
+the unit's current equipment.
+{MClose}
+{0xEC71}There. We have successfully changed the{Newline}
+unit's equipment.{Newline}
+{Newline}
+Press ○ to leave the list of the unit's{Newline}
+current equipment and return to the{Newline}
+equipment menu.
+{MClose}
+{0xEC71}Using the Equip command requires that{Newline}
+you carefully watch for changes in every{Newline}
+attribute, which may be time-consuming.{Newline}
+To save time, you may select Optimize to{Newline}
+automatically equip your unit with the{Newline}
+strongest available items in the inventory.
+{MClose}
+{0xEC71}A list of the strongest items that may be{Newline}
+equipped by that unit appears, and you will{Newline}
+be asked to confirm the changes.
+{MClose}
+{0xEC71}A panel showing any changes in the unit's{Newline}
+attributes also appears, so you may refer to{Newline}
+this while making your decision.
+{MClose}
+{0xEC71}Although the automatically selected equipment{Newline}
+is, for most purposes, the strongest available,{Newline}
+you may wish to change certain assignments.{Newline}
+In this case, it is preferable to go back and{Newline}
+adjust only the individual pieces of equipment{Newline}
+you wish to change.{Newline}
+Now, if I may draw your attention to what{Newline}
+we have just equipped in this unit's hands...
+{MClose}
+{0xEC71}Because the longbow is a two-handed weapon,{Newline}
+it is equipped in both hands.
+{MClose}
+{0xEC71}Let me take this opportunity to go into a little{Newline}
+more detail on choosing equipment for a unit's{Newline}
+hands.{Newline}
+Generally speaking, units will carry a weapon{Newline}
+in one hand and, provided they may equip it,{Newline}
+a shield in the other.
+{MClose}
+{0xEC71}Two-handed weapons such as bows or axes{Newline}
+will be automatically equipped in both hands.
+{MClose}
+{0xEC71}But, if your unit has Doublehand assigned{Newline}
+as a support ability, certain one-handed{Newline}
+weapons can be wielded with two hands.{Newline}
+Wielding a one-handed weapon with two{Newline}
+hands deals significantly more damage.{Newline}
+{Newline}
+The Dual Wield support ability provides{Newline}
+another exception to these rules.{Newline}
+{Newline}
+Dual Wield enables a unit to equip a{Newline}
+weapon in each hand.{Newline}
+{Newline}
+With the exception of the ninja, units must{Newline}
+have Dual Wield assigned to them in order{Newline}
+to equip two weapons at the same time.
+{MClose}
+{0xEC71}The Remove command allows you{Newline}
+to unequip an item from a unit.
+{MClose}
+{0xEC71}Simply select the equipment you wish{Newline}
+to remove.
+{MClose}
+{0xEC71}Pressing the left button before confirming{Newline}
+your selection will select all of the unit's{Newline}
+equipment.
+{MClose}
+{0xEC71}The View List command brings up a list of the{Newline}
+equipment in the party's inventory and that{Newline}
+presently equipped by party members.{Newline}
+From this list you can reorder, discard,{Newline}
+unequip all, sort, and search to find what{Newline}
+units are using certain equipment.
+{MClose}
+{0xEC71}This is the equipment list. Detailed information{Newline}
+about the currently selected equipment appears{Newline}
+at the top and bottom right of the screen.
+{MClose}
+{0xEC71}You may cycle through the different equipment{Newline}
+categories by pressing the left and right{Newline}
+buttons.{Newline}
+The leftmost category contains equipment{Newline}
+held in the hands.
+{MClose}
+{0xEC71}Next to that is headwear.
+{MClose}
+{0xEC71}The center category is for clothing{Newline}
+and body armor.
+{MClose}
+{0xEC71}Next come accessories.
+{MClose}
+{0xEC71}And finally, consumable items.
+{MClose}
+{0xEC71}Weapons and shields are held in the hands.
+{MClose}
+{0xEC71}Weapons primarily affect weapon Attack{Newline}
+and Parry rate, while shields determine{Newline}
+Shield Evasion (S-EV).
+{MClose}
+{0xEC71}Helms and hats are types of{Newline}
+equipment worn upon the head.
+{MClose}
+{0xEC71}Equipment worn upon the head primarily{Newline}
+provides boosts to HP and/or MP.
+{MClose}
+{0xEC71}Clothing, armor, and robes are equipped{Newline}
+on the body.
+{MClose}
+{0xEC71}Equipment worn upon the body generally has{Newline}
+effects such as increasing HP and/or MP{Newline}
+as well.
+{MClose}
+{0xEC71}Accessories include capes, rings, armguards,{Newline}
+gauntlets, boots, and the like.
+{MClose}
+{0xEC71}Accessories grant many different effects. Some{Newline}
+boost certain attributes, while others protect{Newline}
+against status effects.
+{MClose}
+{0xEC71}Consumable items may only be used during{Newline}
+battle and disappear once they are used.{Newline}
+{Newline}
+A unit must learn chemist abilities before{Newline}
+he or she may use items.{Newline}
+{Newline}
+Items restore HP and remove status effects.{Newline}
+For example, a phoenix down will revive a{Newline}
+KO'd unit.
+{MClose}
+{0xEC71}Next, let me explain the commands available{Newline}
+while viewing the equipment list.{Newline}
+{Newline}
+You may reorder equipment in the list to be{Newline}
+displayed in any way you like.{Newline}
+{Newline}
+First, move the cursor to the equipment{Newline}
+you wish to move, then press ×.
+{MClose}
+{0xEC71}Next, move the cursor up or down to the{Newline}
+location to which you wish to move the{Newline}
+equipment, then press × again.{Newline}
+The two pieces of equipment will{Newline}
+exchange places on the list.
+{MClose}
+{0xEC71}Now, I shall explain how to search for{Newline}
+units who are using a certain piece of{Newline}
+equipment.
+{MClose}
+{0xEC71}First, move the cursor to a piece of{Newline}
+equipment that is currently equipped, {Newline}
+and then press △.{Newline}
+This will display any units using the{Newline}
+selected piece of equipment.
+{MClose}
+{0xEC71}If more than one unit is using the same{Newline}
+equipment, you may use the L and R buttons{Newline}
+to cycle through those units.
+{MClose}
+{0xEC71}Next, let's examine the Discard, Unequip{Newline}
+All, and Sort commands.
+{MClose}
+{0xEC71}Pressing × twice while a piece of{Newline}
+equipment is selected will open the{Newline}
+equipment list menu.
+{MClose}
+{0xEC71}Select Discard to throw away any number{Newline}
+of the currently selected piece of{Newline}
+equipment.
+{MClose}
+{0xEC71}Unequip All will remove the selected piece of{Newline}
+equipment from anyone in the party who has{Newline}
+it equipped.
+{MClose}
+{0xEC71}Sort allows you to set the order in which{Newline}
+equipment is displayed by selecting from a{Newline}
+list of criteria.
+{MClose}
+{0xEC71}There is little else to say about{Newline}
+the equipment list.
+{MClose}
+{0xEC71}And so our discussion of equipment has{Newline}
+reached its end.{Newline}
+{Newline}
+Equipment is a very important matter, so{Newline}
+kindly take what I have said to heart.{Newline}
+{Newline}
+With that, I shall bring this lesson to a close.
+{MClose}
+{zeroes(738,7454)}

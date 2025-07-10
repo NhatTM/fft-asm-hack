@@ -1,0 +1,239 @@
+{0xEC71}{Color 08}Master Darlavon{Newline}
+{Color 00}Now then, let us begin the lesson.{Newline}
+{Newline}
+In this session, we shall discuss the detailed{Newline}
+information available to you on the status{Newline}
+screen.{Newline}
+This information forms the foundation on{Newline}
+which you must build an understanding of{Newline}
+your units, so pay close attention.
+{MClose}
+{0xEC71}There is much to cover, so let us start from{Newline}
+the top left and work from there.{Newline}
+{Newline}
+The unit's portrait appears in the upper left{Newline}
+corner of the screen.
+{MClose}
+{0xEC71}The number to the top right of the portrait{Newline}
+is the unit's level.
+{MClose}
+{0xEC71}As a unit's level increases, his or her HP,{Newline}
+MP, and Speed increase, as do his or her{Newline}
+Power and Magick attributes.{Newline}
+A unit's level increases by 1 for every 100{Newline}
+experience points (EXP) earned.{Newline}
+{Newline}
+EXP is displayed directly to the right of{Newline}
+the unit's level.
+{MClose}
+{0xEC71}Units earn EXP during battle.{Newline}
+{Newline}
+{Newline}
+Dealing damage to an enemy using physical{Newline}
+or magick attacks will earn a unit EXP.{Newline}
+{Newline}
+However, no EXP is earned if the attack{Newline}
+fails.{Newline}
+{Newline}
+The bars and numbers beneath LV and EXP{Newline}
+are the HP, MP, and CT gauges.
+{MClose}
+{0xEC71}HP represents a unit's general physical well-{Newline}
+being. As a unit takes damage during battle,{Newline}
+his or her HP will decrease.{Newline}
+The left number is the unit's current HP, and{Newline}
+the right number is the unit's maximum HP.{Newline}
+{Newline}
+You must pay close attention to your units'{Newline}
+remaining HP during battle.{Newline}
+{Newline}
+If a unit takes enough damage to reduce{Newline}
+his or her HP to zero, he or she is KO'd and{Newline}
+can no longer participate in battle.{Newline}
+MP represents a unit's capacity for casting{Newline}
+spells. Casting magicks consumes MP.{Newline}
+{Newline}
+The more powerful the magick, the more MP{Newline}
+it will cost to cast.{Newline}
+{Newline}
+Once a unit's MP reaches zero, he or she may{Newline}
+no longer cast magicks, so use it wisely.{Newline}
+{Newline}
+The CT gauge represents a unit's charge time.{Newline}
+With each tick of the game clock, the gauge{Newline}
+fills by an amount equal to the unit's Speed.{Newline}
+When the CT gauge reaches 100, the unit's{Newline}
+turn begins and he or she is free to perform{Newline}
+an action.{Newline}
+In battle, you can get an idea of when a{Newline}
+unit may take his or her next turn by{Newline}
+looking at his or her CT gauge.{Newline}
+During actual battles, however, a number{Newline}
+displaying the turn order appears to the left{Newline}
+of a unit's level.{Newline}
+Now let us examine the panel to the right.
+{MClose}
+{0xEC71}This indicator shows the side to which the{Newline}
+selected unit belongs.{Newline}
+{Newline}
+During battle, the indicator color will tell{Newline}
+you whether the unit is friendly or hostile.
+{MClose}
+{0xEC71}The number to the right is the unit's roster{Newline}
+number. You may have up to 24 units in your{Newline}
+party at any given time.
+{MClose}
+{0xEC71}To the right of the roster number is the{Newline}
+unit's name.
+{MClose}
+{0xEC71}Beneath the name is the unit's current job.{Newline}
+{Newline}
+{Newline}
+As they amass experience, units can take on{Newline}
+a variety of new jobs.{Newline}
+{Newline}
+To the bottom left of the unit's job, you will{Newline}
+find his or her zodiac sign.
+{MClose}
+{0xEC71}Some signs are more compatible with others.{Newline}
+For example, ♈ Aries is said to be{Newline}
+compatible with ♌ Leo.{Newline}
+This compatibility determines the{Newline}
+effectiveness of attacks and magick.{Newline}
+{Newline}
+Attacking an opponent with a compatible sign{Newline}
+will deal greater damage.{Newline}
+{Newline}
+Likewise, damage to opponents with opposing{Newline}
+signs will be reduced.{Newline}
+{Newline}
+To the right of a unit's sign, you will find his{Newline}
+or her Bravery and Faith.
+{MClose}
+{0xEC71}A unit's Bravery has various effects in{Newline}
+battle.{Newline}
+{Newline}
+The higher the value, the more brave a unit{Newline}
+is, affecting bare-handed attacks and the{Newline}
+use of reaction abilities.{Newline}
+A unit's Faith indicates the strength of his{Newline}
+or her belief in the divine.{Newline}
+{Newline}
+The higher this value, the more profound the{Newline}
+unit's faith and understanding of mysterious{Newline}
+phenomena beyond normal human knowledge.{Newline}
+As such, Faith affects both the potency and{Newline}
+success rate of magicks.
+{MClose}
+{0xEC71}This brings us to the panel in the middle of{Newline}
+the screen.
+{MClose}
+{0xEC71}A unit's Move attribute indicates the number{Newline}
+of tiles the unit may traverse in one turn.{Newline}
+{Newline}
+However, some terrain is more difficult to{Newline}
+traverse. Crossing one of these tiles requires{Newline}
+the effort needed to cross two normal tiles.
+{MClose}
+{0xEC71}A unit's Jump attribute indicates how high{Newline}
+and how far the unit may jump.{Newline}
+{Newline}
+Units may jump vertically to a height (h){Newline}
+equal to their Jump, and horizontally a{Newline}
+number of tiles equal to half their Jump.
+{MClose}
+{0xEC71}Speed indicates a unit's quickness.{Newline}
+{Newline}
+{Newline}
+Since the CT gauge fills in increments equal{Newline}
+to a unit's Speed, the higher a unit's Speed,{Newline}
+the sooner his or her turn will come.{Newline}
+In other words, the higher a unit's Speed,{Newline}
+the faster it is and the more often it will{Newline}
+receive a chance to act.{Newline}
+The values for Move, Jump, and Speed are{Newline}
+determined by a variety of factors.{Newline}
+{Newline}
+A unit's equipment, abilities, and unique{Newline}
+characteristics are all factored into the{Newline}
+final value.
+{MClose}
+{0xEC71}Weapon Power refers to a weapon's Attack{Newline}
+Power and Parry rate.{Newline}
+{Newline}
+R and L show the effectiveness of weapons{Newline}
+equipped in the right and left hands.{Newline}
+{Newline}
+The left number displays the weapon's{Newline}
+Attack, while the right number displays{Newline}
+its Parry.{Newline}
+The higher a weapon's Attack, the greater{Newline}
+the damage it will deal.{Newline}
+{Newline}
+The higher a weapon's Parry, the greater{Newline}
+the chance it will block incoming{Newline}
+physical attacks.{Newline}
+If the Parry ability has been assigned, the{Newline}
+the chance a weapon will block a physical{Newline}
+attack is doubled.
+{MClose}
+{0xEC71}These sword and rod icons represent{Newline}
+physical and magick values, respectively.{Newline}
+{Newline}
+For ATK, C-EV, S-EV, and A-EV, the{Newline}
+values for physical attacks are on the top{Newline}
+row, and magick attacks on the bottom.
+{MClose}
+{0xEC71}ATK is the unit's combined Attack rating.{Newline}
+These numbers are the unit's base Power{Newline}
+and Magick, plus any ability bonuses.{Newline}
+The top row displays the power of physical{Newline}
+attacks (such as weapon attacks), and the{Newline}
+bottom row displays that of magick attacks.
+{MClose}
+{0xEC71}C-EV, S-EV, and A-EV all indicate the{Newline}
+chance of evading attacks.{Newline}
+{Newline}
+C-EV is the unit's, or character's, inherent{Newline}
+chance of evading an attack.{Newline}
+{Newline}
+S-EV is the chance a unit will evade, or{Newline}
+block, an attack with the shield he or she{Newline}
+has equipped.{Newline}
+A-EV is the chance an accessory the unit{Newline}
+has equipped will help him or her evade an{Newline}
+attack.{Newline}
+As before, the values in the top row are{Newline}
+for physical attacks, while the values in{Newline}
+the bottom row are for magick attacks.
+{MClose}
+{0xEC71}Now let's turn to the panel at the bottom{Newline}
+of the screen.{Newline}
+{Newline}
+The unit's current equipment appears on{Newline}
+the left, with his or her assigned abilities{Newline}
+and commands appearing on the right.
+{MClose}
+{0xEC71}From the top, the equipment listed here{Newline}
+is that for the right hand, left hand, head,{Newline}
+and body, with an accessory at the bottom.
+{MClose}
+{0xEC71}The abilities and commands are listed on{Newline}
+the right, beginning with the default job{Newline}
+command.{Newline}
+Below that are the optionally assigned job{Newline}
+command, reaction ability, support ability,{Newline}
+and movement ability.
+{MClose}
+{0xEC71}Now you know all about the information{Newline}
+available on the status screen.{Newline}
+{Newline}
+It is very important that you review your{Newline}
+party's capabilities and level of advancement{Newline}
+before entering battle.{Newline}
+Understanding the meaning of these{Newline}
+attributes is the only way to have a firm grasp{Newline}
+of each unit's strengths and weaknesses.{Newline}
+With that, I shall bring this lesson to a close.
+{MClose}
+{zeroes(1387,6805)}
